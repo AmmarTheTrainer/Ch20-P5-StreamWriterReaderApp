@@ -1,0 +1,7 @@
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P5-StreamWriterReaderApp\Ch20-P5-StreamWriterReaderApp\bin\Debug\Ch20-P5-StreamWriterReaderApp.exe.config
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P5-StreamWriterReaderApp\Ch20-P5-StreamWriterReaderApp\bin\Debug\Ch20-P5-StreamWriterReaderApp.exe
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P5-StreamWriterReaderApp\Ch20-P5-StreamWriterReaderApp\bin\Debug\Ch20-P5-StreamWriterReaderApp.pdb
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P5-StreamWriterReaderApp\Ch20-P5-StreamWriterReaderApp\obj\Debug\Ch20-P5-StreamWriterReaderApp.csprojAssemblyReference.cache
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P5-StreamWriterReaderApp\Ch20-P5-StreamWriterReaderApp\obj\Debug\Ch20-P5-StreamWriterReaderApp.csproj.CoreCompileInputs.cache
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P5-StreamWriterReaderApp\Ch20-P5-StreamWriterReaderApp\obj\Debug\Ch20-P5-StreamWriterReaderApp.exe
+C:\Users\Ammar Shaukat\Documents\GitHub\Ch20-P5-StreamWriterReaderApp\Ch20-P5-StreamWriterReaderApp\obj\Debug\Ch20-P5-StreamWriterReaderApp.pdb
